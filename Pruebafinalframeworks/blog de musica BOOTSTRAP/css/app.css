@@ -1,0 +1,42 @@
+html{
+  width: 90%;
+  margin:0 auto;
+  height: 100%;
+  background-color: orange;
+}
+header{
+  margin-bottom: 10px;
+}
+.menuredes{
+  text-align: right;
+
+  margin-top: 10%;
+}
+.imagenlogo{
+  width: 100%;
+}
+
+.nav{
+  background-color: #A4A4A4;
+  border-radius: 30px;
+
+}
+#anav1{
+  color: BLUE;
+}
+#anav{
+  color: green;
+}
+.estiloimage{
+  width: 100%;
+  margin-top: 15%;
+}
+
+table{
+  cursor: pointer;
+}
+
+p {
+  text-align: justify;
+}
+/*******************************************************************************/

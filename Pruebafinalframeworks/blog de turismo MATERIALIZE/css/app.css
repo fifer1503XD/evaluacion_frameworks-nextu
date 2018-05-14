@@ -1,0 +1,50 @@
+#perfilimg{
+  width: 250px;
+  height: 200px;
+  border-radius: 10px;
+}
+
+img{
+  width: 100%;
+}
+
+.personal1{
+margin-top: 100px;
+}
+.personal{
+margin-top: 25px;
+}
+
+
+#imagen1{
+  width: 400px;
+  height: 300px;
+}
+
+#imagen2{
+  width: 400px;
+  height: 600px;
+}
+#barra{
+  color: black;
+font-family: 'Indie Flower', cursive;
+}
+
+#texto{
+  text-align: center;
+  color: white;
+  font-style:italic;
+  font-family: 'Indie Flower', cursive;
+  font-size: 35px;
+}
+#texto2{
+  text-align: center;
+  color: white;
+  font-style:italic;
+  font-family: 'Indie Flower', cursive;
+  font-size: 15px;
+  text-align: justify;
+}
+#panel{
+  background-color:rgba(116,40,122,0.5);
+}
